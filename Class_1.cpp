@@ -125,7 +125,7 @@
 // 	result=a*b;
 // 	cout<<"Answer is: "<<result<<'\n';
 //     return 0;
-// }
+//  }
 
 // Program to use multiple inputs in same line
 
