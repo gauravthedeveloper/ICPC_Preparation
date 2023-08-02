@@ -145,12 +145,12 @@
 // Data Types
 
 // int // integer
-// Range of integer in C++ is -2^31 to +2^31
+// Range of integer in C++ is -2^31 to +(2^31)-1
 // (-2,147,483,648 to 2,147,483,647)
 // long int // long integer
 // Range increases
 // long long int // long long integer
-// Range is -10^(18) to +10^(18)
+// Range is -10^(18) to +10^(18) -1 (approximately)
 
 // Exact range of long long int
 // (No need to remember this. Just remember approx range from above)
@@ -294,7 +294,7 @@
 
 // 2. Calling the above PrintInfo() function to print some information
 
-//  PrintInfo("Chirag", 18, 6.0);
+//  PrintInfo("Gourab", 18, 6.0);
 // Complete code to print the info. using function
 
 // #include <bits/stdc++.h>
@@ -318,7 +318,7 @@
 
 // 	PrintInfo(name,age,height); //Function Call
 
-//     PrintInfo(“Chirag”, 18, 6.0);
+//     PrintInfo(“Gourab”, 18, 6.0);
 //     //You may also call the function like this, It is hard-coded.
 
 // 	return 0;
