@@ -8,7 +8,7 @@ int main()
     printf("Enter the number of terms: ");
     scanf("%d", &n);
 
-    printf("Enter the process of use:\n 1.For loop\n2.While loop\n3.Do-while loop\n");
+    printf("Enter the process of use:\n1.For loop\n2.While loop\n3.Do-while loop\n");
     int way;
     scanf("%d", &way);
     switch (way)
